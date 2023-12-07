@@ -2,13 +2,13 @@
 
 <h2>🔖 Sobre</h2>
 <p>
-  O projeto base foi utilizado gerado nos cursos de lógica e programação da Alura. 
+  O projeto base foi gerado nos cursos de lógica e programação da Alura. 
   <br>Este repositório em específico foi utilizado para testes e aprendizado com Git e GitHub baseado no curso "Git e GitHub: Compartilhando e colaborando em projetos" da Alura. Foram utilizados comandos para commits, log de commits, atualização de repositórios, criação de repositórios, exclusão de commits, reversão de versões do projeto, dentre outros.</br>
 </p>
 
 <h2>🔖 About</h2>
 <p>
-  The base project was used generated in Alura's logic and programming courses. 
+  The base project was generated in Alura's logic and programming courses. 
   <br>This specific repository was used for testing and learning with Git and GitHub based on Alura's "Git and GitHub: Sharing and collaborating on projects" course. Commands were used for commits, commit log, updating repositories, creating repositories, deleting commits, reversing project versions, among others.</br>
 </p>
 
