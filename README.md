@@ -1,13 +1,18 @@
 <h1>Jogo do número secreto</h1>
 
-<h2>�� Sobre</h2>
-<p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
+<h2>🔖 Sobre</h2>
+<p>
+  O projeto base foi utilizado gerado nos cursos de lógica e programação da Alura. 
+  <br>Este repositório em específico foi utilizado para testes e aprendizado com Git e GitHub baseado no curso "Git e GitHub: Compartilhando e colaborando em projetos" da Alura. Foram utilizados comandos para commits, log de commits, atualização de repositórios, criação de repositórios, exclusão de commits, reversão de versões do projeto, dentre outros.</br>
+</p>
 
-## �� Tecnologias
+## 🚀 Tecnologias
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-// Código omitido. 
+# Time
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/furtado-matheus)
