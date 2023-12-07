@@ -15,4 +15,4 @@
 
 # Time
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/33001620?v=4" width=115><br><sub>Gabrielle Ribeiro</sub>](https://github.com/furtado-matheus)
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/115049347?s=400&u=d26c85547dca867425c076dbcdf8f20d0fb4f352&v=4" width=115><br><sub>Matheus Furtado</sub>](https://github.com/furtado-matheus)
