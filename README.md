@@ -20,7 +20,7 @@
 </div>
 
 ## 🚀 **O que foi criado**
-<img src="C:\Users\Matheus\Downloads\projects\Alura\CursoGitHub\3386-git-github-projeto_inicial\img\JS-Game-Google-Chrome-2023-12-07-14-54-59.gif" alt="![Apresentação do jogo]">
+<img src="img\apresentacao.gif" alt="![Apresentação do jogo]">
 
 
 # **Time**
