@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>Jogo do número secreto</h1>
 
 <h2>🔖 Sobre</h2>
@@ -27,3 +28,7 @@
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/115049347?s=400&u=d26c85547dca867425c076dbcdf8f20d0fb4f352&v=4" width=115><br><sub>Matheus Furtado</sub>](https://github.com/furtado-matheus) |
 | :---: |
+=======
+# numero-secreto
+numero-secreto
+>>>>>>> cb6805480622bc3fbbb9a682196c39b61e1ef79f
